@@ -1,4 +1,6 @@
 streamlit
+matplotlib
 numpy
-skimage
+scikit-image
 scipy
+pandas

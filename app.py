@@ -118,7 +118,7 @@ class Process:
         data = {
             "PARAMETER": ["Area", "H1", "H2", "H3", "H4", "H5", "H6", "H7", "V1"],
             "UNITS": ["SQ CMS", "CMS", "CMS", "CMS", "CMS", "CMS", "CMS", "CMS", "CMS"],
-            "MASTER": [3400, 38, 55,79.5, 40.5, 40, 44.5, 47.5, 65],
+            "MASTER": [3400, 37, 52, 85, 40, 39.5, 43, 47, 64.5],
             "OBSERVED": [shirt_area_cm, shirt_widths_cm[0], shirt_widths_cm[1], shirt_widths_cm[2], shirt_widths_cm[3], shirt_widths_cm[4], shirt_widths_cm[5], shirt_widths_cm[6], shirt_height_cm],
             "DIFFERENCE%": []  
         }
